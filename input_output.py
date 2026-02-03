@@ -7,7 +7,7 @@ payment_mode=eval(input("Enter the payment modes: "))
 brand = eval(input("Enter the brand details: "))
 
 print(f"Product Name: {product_name}")
-print(f"Stock: {stock}")
+print(f"stock: {stock}")
 print(f"Price: ${price}")
 print(f"RAM: {ram}")
 print(f"Reviews: {reviews}")
