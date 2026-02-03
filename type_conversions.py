@@ -4,13 +4,13 @@ print("int to float:", float(a))
 print("int to string:", str(a))
 print("int to complex:", complex(a))
 
-# Float conversions
+#  Float conversions
 b = 12.5
 print("\nfloat to int:", int(b))
 print("float to string:", str(b))
 print("float to complex:", complex(b))
 
-# String conversions
+#  String conversions
 c = "20"
 print("\nstring to int:", int(c))
 print("string to float:", float(c))
