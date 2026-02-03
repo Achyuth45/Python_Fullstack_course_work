@@ -1,4 +1,4 @@
-# Valid variable names
+# Valid variable Names
 
 a = 10                  
 number = 20             
